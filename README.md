@@ -21,10 +21,10 @@ Fivem Api Documentation
 - Main Information (GET)        : http://{ip:port}/info.json </br>
 - Dynamic Information (GET)     : http://{ip:port}/dynamic.json </br>
 - Player Information (GET)      : http://{ip:port}/players.json </br>
-- Server List Information (GET) : https://servers-frontend.fivem.net/api/servers/single/{address} </br>
-- All Server Data (GET)         : https://servers-frontend.fivem.net/api/servers/streamRedir </br>
-- Top Server (Country) (GET)    : https://servers-frontend.fivem.net/api/servers/top/{language} </br>
-- Upvote Informartion (GET)     : https://servers-frontend.fivem.net/api/upvote/ (header seperti diatas) </br>
+- Server List Information (GET) : https://frontend.cfx-services.net/api/servers/single/{address} </br>
+- All Server Data (GET)         : https://frontend.cfx-services.net/api/servers/streamRedir </br>
+- Top Server (Country) (GET)    : https://frontend.cfx-services.net/api/servers/top/{language} </br>
+- Upvote Informartion (GET)     : https://frontend.cfx-services.net/api/upvote/ (header seperti diatas) </br>
 - Player Playtime (GET)         : https://lambda.fivem.net/api/ticket/playtimes/{ip:port}?identifiers[]={identifier} </br>
 - Promotions (GET)              : https://runtime.fivem.net/promotions_targeting.json </br>
 - CnL (GET)                     : https://lambda.fivem.net </br>
